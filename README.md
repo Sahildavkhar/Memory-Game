@@ -51,12 +51,12 @@ npm install
 # Run the development server
 npm run dev
 ```
-The app will start at http://localhost:5173/ by default.
+The app will start at http://localhost:5173/ by default.<br>
 
 🧩 **How It Works**
 
-Generates a shuffled grid of card pairs based on the selected grid size.
-Tracks flipped and solved cards using React state.
-Matches pairs and locks solved ones.
-Detects win condition when all pairs are matched.
-Allows grid resizing and restarting the game anytime.
+Generates a shuffled grid of card pairs based on the selected grid size.<br>
+Tracks flipped and solved cards using React state.<br>
+Matches pairs and locks solved ones.<br>
+Detects win condition when all pairs are matched.<br>
+Allows grid resizing and restarting the game anytime.<br>
