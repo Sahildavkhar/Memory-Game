@@ -53,7 +53,7 @@ npm run dev
 ```
 The app will start at http://localhost:5173/ by default.<br>
 
-🧩 **How It Works**
+##🧩 **How It Works**
 
 Generates a shuffled grid of card pairs based on the selected grid size.<br>
 Tracks flipped and solved cards using React state.<br>
