@@ -14,19 +14,19 @@ Flip cards to reveal numbers and match pairs until you clear the entire board!
 
 ---
 
-## 🗂️ Project Structure
-Memory-Game/
-├── public/
-├── src/
-│ ├── MemoryGame.jsx
-│ ├── index.css
-│ ├── main.jsx
-│ └── App.jsx
-├── package.json
-├── postcss.config.js
-├── tailwind.config.js
-├── vite.config.js
-└── README.md
+## 🗂️ Project Structure<br>
+Memory-Game/<br>
+├── public/<br>
+├── src/<br>
+│ ├── MemoryGame.jsx<br>
+│ ├── index.css<br>
+│ ├── main.jsx<br>
+│ └── App.jsx<br>
+├── package.json<br>
+├── postcss.config.js<br>
+├── tailwind.config.js<br>
+├── vite.config.js<br>
+└── README.md<br>
 
 
 ---
